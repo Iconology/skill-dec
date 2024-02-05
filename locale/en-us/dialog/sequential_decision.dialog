@@ -1,0 +1,5 @@
+invalid_input:
+  - "I'm sorry, I couldn't understand your input. Please try again by saying your first option, followed by 'OR', and then your second option."
+
+suggestion:
+  - "I suggest you {chosen_option}. Let's do it!"
